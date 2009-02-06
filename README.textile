@@ -1,0 +1,5 @@
+This is the code for an HMM word alignment system for statistical machine translation.  It was used for experiments described in:
+
+"Lopez, A. and Resnik, P.  Improved HMM Alignment Models for Languages with Scarce Resources.  ACL Workshop on Parallel Text, 2005.":http://acl.ldc.upenn.edu/W/W05/W05-0812.pdf
+
+The code is here for archival purposes; I haven't used it in quite a while.  It is not heavily documented, but should be reasonably easy to understand.  Have fun!
