@@ -1,12 +1,20 @@
 h1. About the HMM Aligner
 
-This is the code for an HMM word alignment system for statistical machine translation.  It was used for experiments described in:
+This is the code for an HMM word alignment system for statistical machine 
+translation.  It was used for experiments described in:
 
 "Lopez, A. and Resnik, P.  Improved HMM Alignment Models for Languages with Scarce Resources.  ACL Workshop on Parallel Text, 2005.":http://acl.ldc.upenn.edu/W/W05/W05-0812.pdf
 
-The code is here for archival purposes; I haven't used it in quite a while.  It is not heavily documented, but should be reasonably easy to understand.  Have fun!
+The code is here for archival purposes. I haven't used it in quite a while 
+and I do not support it or answer questions about it. Though not heavily 
+documented, I believe it's reasonably easy to understand. If you are looking
+at the code because you want to understand the HMM alignment algorithm, I 
+highly recommend that you implement it yourself. As a starting point, 
+you could follow "these instructions":http://mt-class.org/hw1.html .
 
-I'm distributing this code under terms of an MIT/X11 license (below).  You're free to do whatever you want with it.  However, I request that any academic publications resulting from its use please cite the above paper.
+I'm distributing this code under terms of an MIT/X11 license (below).  
+You're free to do whatever you want with it.  However, I request that any 
+academic publications resulting from its use please cite the above paper.
 
 h1. License
 
