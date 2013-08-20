@@ -10,7 +10,7 @@ and I do not support it or answer questions about it. Though not heavily
 documented, I believe it's reasonably easy to understand. If you are looking
 at the code because you want to understand the HMM alignment algorithm, I 
 highly recommend that you implement it yourself. As a starting point, 
-you could follow "these instructions":http://mt-class.org/hw1.html .
+you could follow "these instructions":http://alopez.github.io/dreamt/challenge1.html .
 
 I'm distributing this code under terms of an MIT/X11 license (below).  
 You're free to do whatever you want with it.  However, I request that any 
